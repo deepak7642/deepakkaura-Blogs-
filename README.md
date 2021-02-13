@@ -11,3 +11,5 @@ In Supervised learning, you train the machine using data which is well "labeled.
 A supervised learning algorithm learns from labeled training data, helps you to predict outcomes for unforeseen data.
 
 Unsupervised Learning is a machine learning technique in which the users do not need to supervise the model. Instead, it allows the model to work on its own to discover patterns and information that was previously undetected. It mainly deals with the unlabelled data.
+
+### Data Science Vocab
