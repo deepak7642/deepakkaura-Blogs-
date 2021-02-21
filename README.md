@@ -15,4 +15,9 @@ A supervised learning algorithm learns from labeled training data, helps you to 
 
 Unsupervised Learning is a machine learning technique in which the users do not need to supervise the model. Instead, it allows the model to work on its own to discover patterns and information that was previously undetected. It mainly deals with the unlabelled data.
 
+#### Refer link 1 : http://www.intellspot.com/discrete-vs-continuous-data/ ,  
+#### Refer link 2 : http://www.intellspot.com/machine-learning-classification/  ,
+#### Refer link 3 : http://www.intellspot.com/nominal-vs-ordinal-data/ , 
+#### Refer link 4 : http://www.intellspot.com/categorical-data-examples/
+
 ### Data Science Vocab
